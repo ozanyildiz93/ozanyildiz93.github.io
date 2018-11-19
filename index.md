@@ -11,25 +11,29 @@ Before EPFL, I received my Bachelors degrees in Mathematics and Computer enginee
 ### Publications
 
 *   Suvrit Sra, Nisheeth K. Vishnoi, Ozan Yıldız.\\
-<b>On geodesically convex formulations for the Brascamp-Lieb constant</b>,
-<em>APPROX-RANDOM 2018</em>. \\
-<a href="http://drops.dagstuhl.de/opus/volltexte/2018/9429/pdf/LIPIcs-APPROX-RANDOM-2018-25.pdf">http://drops.dagstuhl.de/opus/volltexte/2018/9429/pdf/LIPIcs-APPROX-RANDOM-2018-25.pdf</a>
+<a href="http://drops.dagstuhl.de/opus/volltexte/2018/9429/pdf/LIPIcs-APPROX-RANDOM-2018-25.pdf" target="_blank">
+<b>On geodesically convex formulations for the Brascamp-Lieb constant</b>
+</a>,
+<em>APPROX-RANDOM 2018</em>. 
 
 *   Arman Afrasiyabi, Diaa Badawi, Barış Nasır, Ozan Yıldız, Fatoş T. Yarman-Vural, A. Enis Çetin.\\
-<b>Non-Euclidean vector product for neural networks</b>,
-<em>ICASSP 2018</em>.\\ 
-<a href="http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006862.pdf">http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006862.pdf</a>
+<a href="http://www.mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006862.pdf" target="_blank">
+<b>Non-Euclidean vector product for neural networks</b>
+</a>,
+<em>ICASSP 2018</em>.
 
 
 *   Arman Afrasiyabi, Barış Nasır, Ozan Yıldız, Fatoş T. Yarman-Vural, A. Enis Çetin.\\
-<b>An energy efficient additive neural networks</b>,
-<em>SIU 2017</em>.\\
-<a href="https://ieeexplore.ieee.org/document/7960263">https://ieeexplore.ieee.org/document/7960263</a>
+<a href="https://ieeexplore.ieee.org/document/7960263" target="_blank">
+<b>An energy efficient additive neural networks</b>
+</a>,
+<em>SIU 2017</em>.
 
 *   Ozan Yıldız, Fethiye Irmak Doğan, İlke Öztekin, Eda Mızrak, Fatoş T. Yarman-Vural.\\
-<b> A robust normalization method for fMRI data for brain decoding</b>,
-<em>SIU 2016</em>.\\ 
-<a href="https://ieeexplore.ieee.org/document/7496228/">https://ieeexplore.ieee.org/document/7496228/</a>
+<a href="https://ieeexplore.ieee.org/document/7496228/" target="_blank">
+<b>A robust normalization method for fMRI data for brain decoding</b>
+</a>, 
+<em>SIU 2016</em>.
 
 
 ### Master's Thesis
