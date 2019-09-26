@@ -1,14 +1,10 @@
 ---
-layout: default
+layout: page
+title: Publications
+permalink: /publications/
 ---
 
-Hi! I am a second year PhD student at the École polytechnique fédérale de Lausanne, where I am advised by [Prof. Nisheeth K. Vishnoi](https://theory.epfl.ch/vishnoi/Home.html). 
-
-I am interested in problems at the intersection of Machine Learning and Theoretical Computer Science. I have worked on or am currently working on problems related to geodesically convex optimization and maximum entropy distributions.
-
-Before EPFL, I received my Bachelors degrees in Mathematics and Computer engineering, as well as my Masters degrees in Computer Engineering from Middle East Technical University, Ankara under the supervision of [Prof. Fatoş T. Yarman-Vural](https://vural.ceng.metu.edu.tr).
-
-### Publications
+My publications from my master and PhD studies in reverse chronogical order.
 
 *   Suvrit Sra, Nisheeth K. Vishnoi, Ozan Yıldız.\\
 <a href="http://drops.dagstuhl.de/opus/volltexte/2018/9429/pdf/LIPIcs-APPROX-RANDOM-2018-25.pdf" target="_blank">
